@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @biggsthedev
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning php/mysql
 - 💞️ I’m looking to collaborate on front end and back end development
 - 📫 How to reach me mrbiggs211@gmail.com
 
